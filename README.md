@@ -4,11 +4,14 @@
 Player Management System is a console-based project developed in C language. It helps manage player records using structures, functions.
 
 ## ✨ Features
-- ➕ Add Player
-- ❌ Remove Player
-- 🔍 Search Player
-- ✏️ Update Player
-- 📋 Display All Players
+-  Add Player
+-  Remove Player
+-  Search Player
+-  Sort Player
+-  Top 3 runs & WIckets
+-  Update Player
+-  Display All Players
+-  Filters Players
 
 
 ## 🛠 Technologies Used
@@ -30,5 +33,5 @@ Player Management System is a console-based project developed in C language. It 
 - Update Player
 - Display All Players
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 **Ghanshyam Patil**
