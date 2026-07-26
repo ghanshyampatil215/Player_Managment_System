@@ -9,14 +9,12 @@ Player Management System is a console-based project developed in C language. It 
 - 🔍 Search Player
 - ✏️ Update Player
 - 📋 Display All Players
-- 💾 Save Player Data
-- 📂 Load Player Data
+
 
 ## 🛠 Technologies Used
 - C Language
 - Structures
 - Functions
-- File Handling
 - Dev C++
 
 ## ▶️ How to Run
