@@ -1,7 +1,7 @@
 # 🏏 Player Management System
 
 ## 📌 Project Description
-Player Management System is a console-based project developed in C language. It helps manage player records using structures, functions, and file handling.
+Player Management System is a console-based project developed in C language. It helps manage player records using structures, functions.
 
 ## ✨ Features
 - ➕ Add Player
