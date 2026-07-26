@@ -47,29 +47,17 @@ Player Management System is a console-based project developed in C language. It 
 ### Display Player
 ![Display Player](Images/display_player.png)
 
-### Update Player
-![Update Player](Images/update_player.png)
-
 ### Remove Player
 ![Remove Player](Images/remove_player.png)
 
-### Player Update Menu
-![Player Update Menu](Images/player_update_menu.png)
+### Update Player
+![Update Player](Images/update_player_menu.png)
 
 ### Filter Players
 ![Filter Players](Images/filter_players.png)
 
-### Filter Players Menu
-![Filter Players Menu](Images/filter_players_menu.png)
-
-### Sort Menu
-![Sort Menu](Images/sort_menu.png)
-
-### Sort Player
-![Sort Player](Images/sort_player.png)
-
-### Top 3 Runs & Wickets
-![Top 3 Runs & Wickets](Images/top_3_runs_wicket.png)
+### Player Sort Menu
+![Player Sort Menu](Images/player.sortmenu.png)
 
 ### Exit
 ![Exit](Images/exit.png)
