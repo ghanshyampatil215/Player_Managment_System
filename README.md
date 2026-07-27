@@ -39,7 +39,7 @@ Player Management System is a console-based project developed in C language. It 
 ## 📸 Project Screenshots
 
 ### Main Menu
-![Main Menu](Images/main_menu.png)
+![Main Menu](./Images/main_menu.png)
 
 ### Add Player
 ![Add Player](Images/add_player.png)
