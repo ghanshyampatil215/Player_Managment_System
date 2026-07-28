@@ -74,8 +74,8 @@ Player Management System is a console-based project developed in C language. It 
 ### Player Statistics
 ![Player Statistics](Images/players_statics.png)
 
-## Top 3 Runs
-![Top 3 Runs & Wickets](./Images/top_3_runs_wicket.png)
+### Top 3 Runs & Wickets
+![Top 3 Runs & Wickets](Images/top3.png)
 
 ### Exit
 ![Exit](Images/exit.png)
